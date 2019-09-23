@@ -13,5 +13,5 @@ This application reads text from images and converts them to pdf which can be us
 2. Run `npm install` in the project directory
 3. Create a folder as 'uploads'
 4. Run `npm start`
-5. Goto [localhost:4000] (localhost:4000) in your browser
+5. Goto localhost:4000 in your browser
 6. Upload an image containing text and click submit
