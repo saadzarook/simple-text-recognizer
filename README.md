@@ -2,10 +2,10 @@
 This application reads text from images and converts them to pdf which can be used to copy the text
 
 ### Technologies used
-[TesseractJs] (https://tesseract.projectnaptha.com/) a JavaScript OCR library
-Express JS
-[EJS] (https://ejs.co/) to render HTML templates
-[Multer] (https://www.npmjs.com/package/multer) for file uploading
+######[TesseractJs] (https://tesseract.projectnaptha.com/) a JavaScript OCR library
+######Express JS
+######[EJS] (https://ejs.co/) to render HTML templates
+######[Multer] (https://www.npmjs.com/package/multer) for file uploading
 
 #### To get the app running
 
